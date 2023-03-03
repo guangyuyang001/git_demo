@@ -4,4 +4,4 @@ print("add new word")
 
 print("hhh")
 
-print("nihao")
+print('11111111111')
